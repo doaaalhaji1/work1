@@ -1,0 +1,109 @@
+h1{
+    margin-right: 30%;
+    color: #C4DFDF;
+
+}
+*{
+    margin: 0px;
+}
+.body{
+    background-color: #F8F6F4;
+}
+p{
+    color: rgb(22, 19, 19);
+    margin: 10px;
+}
+q{
+     color: #FFACAC;
+     margin: 50px;
+}
+.img{
+    margin: 30%;
+    border-style: solid;
+    border-color: #E3F4F4;
+     border-width: 20;
+}
+.ve{
+     margin-right: 30%;
+     border-style: solid;
+    border-color: #E3F4F4;
+    border-width: 20;
+}
+
+h2{
+    color: #C4DFDF;
+}
+dt{
+    margin: 10px;
+    color: #D2E9E9;
+
+}
+dd{
+    margin-right: 20px;
+}
+dt{
+    margin: 15px;
+}
+label{
+    margin: 10px;
+}
+.d1{
+    padding: 10px;
+    margin: 20px ;
+    border-style: solid;
+    border-color: #E3F4F4;
+    border-radius: 30px;
+}
+.d2{
+    padding: 10px;
+    margin: 20px ;
+    border-style: solid;
+    border-color: #E3F4F4;
+    border-radius: 30px;
+}
+.d3{
+    padding: 10px;
+    margin: 20px ;
+    border-style: solid;
+    border-color: #E3F4F4;
+    border-radius: 30px;
+} 
+.d4{
+    padding: 10px;
+    margin: 20px ;
+    border-style: solid;
+    border-color: #E3F4F4;
+    border-radius: 30px;
+}
+.d5{
+    padding: 10px;
+    margin: 20px ;
+    border-style: solid;
+    border-color: #E3F4F4;
+    border-radius: 30px;
+}.d6{
+    padding: 10px;
+    margin: 20px ;
+    border-style: solid;
+    border-color: #E3F4F4;
+    border-radius: 30px;
+}
+.in{
+    display: flex;
+    flex-direction: column;
+   
+}
+table {
+    border-collapse: collapse; /* دمج حدود الخلايا */
+    width: 100%; /* عرض الجدول بنسبة 100% لملء عرض العنصر المحتوي عليه */
+    border: 2px solid #E3F4F4; /* سمك ولون الحدود للجدول بأكمله */
+  }
+  
+  th, td {
+    border: 1px solid #E3F4F4; /* سمك ولون الحدود للخلايا */
+    padding: 8px; /* تعيين تباعد داخلي داخل الخلايا */
+  }
+  
+  thead {
+    background-color: #C4DFDF; /* تلوين خلفية الخلية الرأسية */
+  }
